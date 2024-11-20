@@ -1,3 +1,5 @@
+// Skriva lösningen vid fortsätt här
+
 // 1. Grundläggande: Summera två tal
 // Skriv en arrow function som tar två parametrar och returnerar summan av dem.
 const add = (a, b) => //fortsätt här;
