@@ -1,7 +1,7 @@
 // 1. Grundläggande: Summera två tal
 // Skriv en arrow function som tar två parametrar och returnerar summan av dem.
 const add = (a, b) => a + b;
-console.log(add(5, 3)); // Förväntat resultat: 8
+console.log(add(5, 3)); // Förväntat resultat: 8b
 
 // 2. Filter: Filtrera ut jämna tal
 // Använd en arrow function för att filtrera en array så att endast jämna tal återstår.
